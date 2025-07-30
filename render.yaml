@@ -1,0 +1,6 @@
+services:
+  type: web
+  name: flask2
+  runtime: python
+  buildcommand: ""
+  startcommand: "python3 app.py"
